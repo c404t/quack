@@ -1,0 +1,17 @@
+types: 
+    two section (adj + noun)
+    two section (noun + noun)
+    two section (verb + noun)
+    three section (adv + verb + noun)
+    special (internet slang + noun)
+
+roles:
+    let user choose alphabetically
+    let user choose by topic
+    let user choose by number of sections
+    let user choose by length 
+
+    let user specify wether they want seperator or not ( -, _, ., costume )
+        if they dont by default there will be _
+    let user decide about caps of word ( all caps, no caps, first caps, even/odd caps )
+
